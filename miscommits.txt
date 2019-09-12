@@ -1,0 +1,11 @@
+commit 683f373a25605606342fb0a5dabdbd66373c08d8
+Author: marcolewis <marcolewis17@gmail.com>
+Date:   Thu Sep 12 12:29:17 2019 -0600
+
+    Encabezado principal en index
+
+commit a54bb9b1c9f672ac80feb93ad5c5276026074bb1
+Author: CCDM03 <ccdm03@CCDM03.local>
+Date:   Wed Sep 11 11:52:59 2019 -0600
+
+    Archivos iniciales
